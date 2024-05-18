@@ -1,11 +1,8 @@
 ### Hi there 👋 I'm Facundo
 
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fvillagra/)
-[![CV](https://img.shields.io/badge/CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)](./CV.md)
+<a href="https://www.linkedin.com/in/fvillagra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="./CV_EN.md" target="_blank"><img src="https://img.shields.io/badge/CV%20(English)-0077B5?style=for-the-badge&logo=cv&logoColor=white" alt="CV English"></a>&nbsp;
+<a href="./CV_ES.md" target="_blank"><img src="https://img.shields.io/badge/CV%20(Español)-0077B5?style=for-the-badge&logo=cv&logoColor=white" alt="CV Español"></a>
 
 ---
 
