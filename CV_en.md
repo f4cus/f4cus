@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-DevOps and SysAdmin professional with extensive experience in cloud computing, continuous integration and deployment, and security. Adept at managing complex infrastructure and implementing end-to-end solutions. Proven track record of enhancing system security and performance through strategic planning and proactive problem-solving. Skilled in both Linux and Windows environments with strong expertise in Azure and AWS. Known for a strategic approach, strong technical skills, and effective communication abilities.
+Professional in DevOps and SysAdmin role with extensive experience in cloud computing, continuous integration and deployment, and information security. Expert in managing complex infrastructures and implementing end-to-end solutions. Experienced in improving system security and performance through strategic planning and proactive problem resolution. Skilled in Linux and Windows environments with strong experience in Azure and AWS. Competency with strategic focus, strong technical skills and effective communication skills.
 
 ---
 
