@@ -1,76 +1,57 @@
-### Hi there 👋 I'm Facundo
+# Professional Profile / Perfil Profesional:
 
-<a href="https://www.linkedin.com/in/fvillagra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="./CV_en.md" target="_blank"><img src="https://img.shields.io/badge/CV%20(English)-0077B5?style=for-the-badge&logo=cv&logoColor=white" alt="CV English"></a>&nbsp;
-<a href="./CV_es.md" target="_blank"><img src="https://img.shields.io/badge/CV%20(Español)-0077B5?style=for-the-badge&logo=cv&logoColor=white" alt="CV Español"></a>
+## English
 
----
+Hybrid Infrastructure & Cloud Security Engineer operating in regulated enterprise environments (banking and insurance).
 
-## 🧠 Who I am
+Experience includes hybrid identity architecture (Active Directory + Entra ID), large-scale Windows Server governance (500+ nodes), security monitoring, and automation of operational control processes.
 
-DevSecOps / SysAdmin with +15 years of experience in hybrid and mission-critical environments (banking and insurance).  
-I design and operate secure, observable and automated platforms at scale.
+Work performed under production, compliance, and change-management constraints, prioritizing risk reduction, governance clarity, and operational resilience across infrastructure and security teams.
 
-My current focus:
-- Large-scale Windows patching automation (+500 servers)
-- Cloud security operations (Azure Sentinel & Defender)
-- Observability (Prometheus + Grafana)
-- Building internal AI-driven automation frameworks using multi-agent orchestration
+### Core Areas
 
----
+- Hybrid Identity Architecture (AD + Entra ID)
+- Windows Server Fleet Governance
+- Patch Governance & Structured Change-Control
+- Security Detection Engineering (Microsoft Sentinel)
+- Infrastructure Observability (Prometheus / Grafana)
+- Hybrid Exchange & Microsoft 365 Administration
+- Infrastructure Automation (PowerShell / Python)
 
-## 🛠️ Core Stack
+### Engineering Approach
 
-### ☁️ Cloud
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### ⚙️ Systems & Automation
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Server](https://img.shields.io/badge/Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 🚀 DevOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔍 Observability & Security
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### 🤖 AI & Automation (Work in Progress)
-- Internal AI automation framework
-- Multi-agent orchestration for operations and analysis
-- Python tooling for infra automation
+- Risk-aware operational design
+- Governance over ad-hoc execution
+- Reduction of operational uncertainty through automation and validation
+- Structured monitoring and control mechanisms
+- Decision clarity under production constraints
 
 ---
 
-## 📊 GitHub Activity
+## Español
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f4cus&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f4cus&hide=TeX&layout=compact&theme=radical)
+Ingeniero en Infraestructura Híbrida y Seguridad Cloud con experiencia en entornos enterprise regulados (banca y seguros).
+
+Especializado en arquitectura de identidad híbrida (Active Directory + Entra ID), gobernanza de flotas Windows Server (500+ nodos), monitoreo de seguridad y automatización de procesos de control operativo.
+
+Trabajo realizado bajo restricciones productivas, regulatorias y de gestión de cambios, priorizando reducción de riesgo, claridad de gobernanza y resiliencia operativa en coordinación con equipos de infraestructura y seguridad.
+
+### Áreas Principales
+
+- Arquitectura de Identidad Híbrida (AD + Entra ID)
+- Gobernanza de Flota Windows Server
+- Gobernanza de Parches y Gestión de Cambios
+- Ingeniería de Detección (Microsoft Sentinel)
+- Observabilidad de Infraestructura (Prometheus / Grafana)
+- Administración Exchange Híbrido y Microsoft 365
+- Automatización de Infraestructura (PowerShell / Python)
+
+### Enfoque de Ingeniería
+
+- Diseño operativo orientado al riesgo
+- Gobernanza por sobre ejecución ad-hoc
+- Reducción de incertidumbre operativa mediante automatización y validación
+- Mecanismos estructurados de monitoreo y control
+- Claridad de decisión bajo restricciones productivas
 
 ---
-
-## 🚧 What I’m building
-
-- **Ops-AI Framework:**  
-  Internal framework to orchestrate AI agents for infrastructure automation, incident analysis and evidence collection.
-
-- **Automated Patching System:**  
-  Scalable, auditable Windows patching workflow with snapshots, validation and rollback controls.
-
-- **Certificate Monitoring Tool:**  
-  Web dashboard that tracks certificate expiration across internal and external services.
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fvillagra/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundovillagrafsa@gmail.com)
