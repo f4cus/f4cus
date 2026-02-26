@@ -8,7 +8,7 @@ Hybrid Infrastructure & Cloud Security Engineer with 15+ years of experience ope
 
 Specialized in hybrid identity (Active Directory + Entra ID), large-scale Windows Server governance, operational risk reduction, and automation of infrastructure control processes.
 
-Focused on reducing operational uncertainty through structured monitoring, patch governance, and security detection engineering under real production constraints.
+Accountable for designing and operating control mechanisms under regulatory, production, and change-management constraints, reducing operational uncertainty through structured monitoring, patch governance, and security detection engineering.
 
 ---
 
@@ -18,11 +18,11 @@ Focused on reducing operational uncertainty through structured monitoring, patch
 - Windows Server Fleet Governance (500+ servers)
 - Operational Risk Reduction & Control Validation
 - Infrastructure Automation (PowerShell / Bash / Python)
-- Patch Governance & Change-Control Workflows
+- Patch Governance & Structured Change-Control Workflows
 - Security Monitoring & Detection Engineering (Microsoft Sentinel)
 - Observability (Prometheus, Grafana)
 - Hybrid Exchange & Microsoft 365 Administration
-- Azure & AWS Workload Management
+- Azure & AWS Workloads Integrated with Hybrid Identity
 
 ---
 
@@ -33,14 +33,14 @@ Focused on reducing operational uncertainty through structured monitoring, patch
 
 - Operate and validate hybrid cloud security controls within regulated banking environments.
 - Design and refine security detection logic using Microsoft Sentinel under telemetry constraints.
-- Contribute to privileged access governance and service account control validation.
+- Contribute to privileged access governance and validation processes in coordination with infrastructure and security teams.
 - Support secure CI/CD implementations in cloud-native platforms.
 - Analyze and remediate security misconfigurations across hybrid workloads.
 
 **Impact**
-- Improved visibility across hybrid identity scenarios.
-- Reduced ambiguity in security event triage.
-- Strengthened operational governance mechanisms for cloud environments.
+- Improved hybrid identity visibility across on-prem and cloud workloads.
+- Reduced ambiguity in security event triage through refined detection logic.
+- Strengthened governance validation mechanisms for cloud environments.
 
 ---
 
@@ -58,7 +58,7 @@ Focused on reducing operational uncertainty through structured monitoring, patch
 **SysAdmin – IT Management** – November 2017 – Present
 
 - Operate and govern a Windows Server fleet of 500+ nodes under banking regulatory constraints.
-- Designed and implemented structured monthly patch governance process including validation and rollback coordination.
+- Designed and coordinated structured monthly patch governance process across infrastructure and application domains, including validation and rollback strategy.
 - Modernized file server architecture from legacy systems to DFS Namespace.
 - Administer hybrid Exchange and Microsoft 365 environments.
 - Manage Azure and AWS workloads integrated with on-prem identity.
@@ -66,7 +66,7 @@ Focused on reducing operational uncertainty through structured monitoring, patch
 **Impact**
 - Reduced manual patch preparation overhead.
 - Improved patch compliance visibility.
-- Increased infrastructure resilience through structured monitoring and governance.
+- Increased infrastructure resilience via structured validation and monitoring controls.
 
 ---
 
