@@ -1,101 +1,107 @@
-**Última Actualización:** 18 de mayo de 2024
+**Última Actualización:** Febrero 2026
 
 ---
 
 ## Resumen Profesional
 
-Profesional en el rol DevOps y SysAdmin con amplia experiencia en computación en la nube, integración y despliegue continuo, y seguridad de la información. Experto en la gestión de infraestructuras complejas y en la implementación de soluciones de extremo a extremo. Experiencia en mejora de la seguridad y el rendimiento de los sistemas mediante la planificación estratégica y la resolución proactiva de problemas. Habilidad en entornos Linux y Windows con fuerte experiencia en Azure y AWS. Competencia con enfoque estratégico, sólidas habilidades técnicas y habilidades efectivas de comunicación.
+Ingeniero en Infraestructura Híbrida y Seguridad Cloud con más de 15 años de experiencia operando entornos enterprise regulados en los sectores bancario y asegurador.
+
+Especializado en identidad híbrida (Active Directory + Entra ID), gobernanza de grandes flotas de Windows Server, reducción de riesgo operativo y automatización de procesos de control en infraestructura.
+
+Enfocado en disminuir la incertidumbre operativa mediante monitoreo estructurado, gobernanza de parches y diseño de mecanismos de detección en entornos productivos reales.
 
 ---
 
-## Habilidades Técnicas
+## Enfoque Técnico
 
-- **Computación en la Nube:** Azure, AWS
-- **SysAdmin:** Linux (RHEL, Ubuntu), Windows Server
-- **CI/CD:** Jenkins, Git, Gitlab, Maven, Nexus, Sonarqube, Ansible
-- **Monitoreo y Observabilidad:** Elastic Stack (Kibana, Elasticsearch, Logstash, Beats), Grafana, Prometheus
-- **Seguridad:** Firewall, SIEM, Seguridad Cloud-Native, AzureAD
-- **Lenguajes y Scripting:** Java, JavaScript, Python, Bash
-- **Contenedores y Orquestación:** Docker, Kubernetes
-- **Otros:** Agile & DevOps, Protocolos de Red
-
----
-
-## Principales Competencias
-
-- **Estratégico:** Planificación Estratégica, Gestión de Proyectos, Perspectiva a Futuro.
-- **Operacional:** Enfoque en Resultados, Resolución de Problemas, Proactivo.
-- **Interpersonal:** Trabajo en Equipo, Empático, Excelentes Habilidades de Comunicación (Verbal y Escrita)
-- **Cualidades Personales:** Entusiasta, Ambicioso, Flexible, Amigable.
+- Arquitectura de Identidad Híbrida (AD On-Prem + Entra ID)
+- Gobernanza de Flota Windows Server (500+ servidores)
+- Reducción de Riesgo Operativo y Validación de Controles
+- Automatización de Infraestructura (PowerShell / Bash / Python)
+- Gobernanza de Parches y Gestión de Cambios
+- Detección y Monitoreo de Seguridad (Microsoft Sentinel)
+- Observabilidad (Prometheus, Grafana)
+- Administración Exchange Híbrido y Microsoft 365
+- Gestión de Workloads en Azure y AWS
 
 ---
 
 ## Experiencia Profesional
 
-### Avalora TI (Cliente: Banco de Chile) – Chile
-**Especialista DevSecOps** - Mayo 2022 – Presente
-- Apoyo en desarrollos y despliegues en plataformas Cloud-Native.
-- Monitoreo, prueba y evaluación de controles y herramientas de seguridad.
-- Diseño de soluciones seguras para entornos multicloud híbridos.
-- Resolución de problemas complejos en múltiples aplicaciones y sistemas.
-- Implementación de pipelines CI/CD de extremo a extremo.
-- Desarrollo y mantenimiento de sistemas de monitoreo de seguridad y defensa cibernética.
-- Análisis y remediación de estándares y prácticas de seguridad.
-- **Tech Stack:** Azure Portal, Sentinel, Defender for Cloud, Microsoft 365, Windows AD, Gitlab, Linux Server (RHEL), Grafana, Cyberark, Remedy, Powershell, Bash.
+### Avalora TI (Cliente: Banco de Chile) – Chile  
+**Especialista DevSecOps** – Mayo 2022 – Presente
 
-### BNP Paribas Cardif – Argentina
-**Ingeniero DevOps** - Julio 2021 – Presente
-- Gestión de iniciativas de transformación digital desde el área de Arquitectura.
-- Gestión de pipelines CI/CD, monitoreo de servicios y observabilidad.
-- Instalación, actualización y mantenimiento de herramientas DevOps.
-- A cargo de pruebas de nuevas tecnologías y enfoques.
-- **Tech Stack:** Azure Portal, Azure DevOps, Gitlab, Jenkins, Linux Server (RHEL), Grafana, Angular, Java, Maven, Ansible, Bash
+- Operación y validación de controles de seguridad en entornos híbridos regulados.
+- Diseño y ajuste de lógica de detección en Microsoft Sentinel bajo restricciones de telemetría.
+- Contribución a procesos de gobernanza de accesos privilegiados y cuentas técnicas.
+- Soporte a implementaciones CI/CD seguras en plataformas cloud-native.
+- Análisis y remediación de configuraciones inseguras en workloads híbridos.
 
-### Banco de Formosa SA – Argentina
-**Sysadmin – Gestión de Tecnología de la Información** - Noviembre 2017 – Presente
-- Administración de plataformas de servidores virtualizados y creación de nuevas máquinas virtuales.
-- Gestión de instancias AWS, incluidas migraciones de VM y grupos de seguridad.
-- Monitoreo de servidores e implementación de mejoras en la infraestructura.
-- Administración de Active Directory y Políticas de Grupo.
-- Implementación del sistema de patching mensual para más de 500 servidores Windows.
-- **Tech Stack:** AWS admin, Microsoft 365 Admin Center (Global Admin), Vmware vCenter, Solarwinds, Grafana, Prometheus, Microsoft Exchange Admin, Powershell, IIS, Tomcat
+**Impacto**
+- Mejora en la visibilidad de escenarios de identidad híbrida.
+- Reducción de ambigüedad en el análisis de eventos de seguridad.
+- Fortalecimiento de mecanismos de gobernanza operativa en entornos cloud.
 
-### Micronet – Argentina
-**Propietario** - Junio 2009 – Junio 2017
-- Gestión de negocio propio del rubro venta de suministros informáticos y servicios de mantenimiento de sistemas informáticos.
-- Consultoría en seguridad informática y realización de charlas y conferencias sobre el tema.
-- Lider de equipo y trato directo con los clientes.
+---
+
+### BNP Paribas Cardif – Argentina  
+**Ingeniero DevOps** – Julio 2021 – Presente
+
+- Diseño y mantenimiento de pipelines CI/CD en entornos híbridos.
+- Mejora de patrones de observabilidad en servicios productivos.
+- Estandarización de flujos de despliegue para reducir desviaciones de configuración.
+- Evaluación e integración de herramientas bajo restricciones arquitectónicas y regulatorias.
+
+---
+
+### Banco de Formosa SA – Argentina  
+**SysAdmin – Gestión de Tecnología de la Información** – Noviembre 2017 – Presente
+
+- Operación y gobernanza de flota Windows Server de más de 500 nodos bajo normativa bancaria.
+- Diseño e implementación de proceso estructurado de patching mensual con validación y coordinación de rollback.
+- Modernización de arquitectura de File Server hacia DFS Namespace.
+- Administración de entorno Exchange híbrido y Microsoft 365.
+- Gestión de workloads Azure y AWS integrados con identidad on-prem.
+
+**Impacto**
+- Reducción del esfuerzo manual previo a ventanas de parcheo.
+- Mejora en la visibilidad de cumplimiento de parches.
+- Incremento de resiliencia mediante monitoreo estructurado.
+
+---
+
+### Micronet – Argentina  
+**Propietario** – Junio 2009 – Junio 2017
+
+Servicios de infraestructura IT y consultoría en seguridad para pequeñas y medianas empresas.
+
+---
+
+## Proyectos Técnicos Seleccionados
+
+- Validación de Cumplimiento de Agentes Híbridos (Azure Arc / AMA)
+- Flujo de Gobernanza de Parches Windows
+- Dashboard de Monitoreo de Vencimiento de Certificados
+- Lógica de Detección en Identidad (KQL)
+- Mejoras de Observabilidad en Infraestructura
 
 ---
 
 ## Certificaciones
 
-- **DevOps, Integración y Agilidad Continua** – 2022, Universidad Tecnológica Nacional B.A.
-- **Microsoft Certified: Azure Fundamentals** – 2022, Microsoft
-- **AWS Cloud Practitioner** – 2021, IT College
-- **Jenkins: From Zero to Hero. Become a DevOps Jenkins Master** – 2021, Udemy
-- **Seguridad Informática y Hacking Ético** – 2009, Instel & Seguridad
-- **Linux Sysadmin** – 2009, Instel & Seguridad
-- **Experto Universitario en Linux** – 2009, Universidad Tecnológica Nacional Buenos Aires
-- **Fundamentos de Programación en Java** – 2007, Universidad Tecnológica Nacional Resistencia
-
-**Actualmente en 2024:**
-- Mejorando habilidades de conversación en inglés
-- Preparación para los exámenes:
-  - AWS Solution Architect
-  - Azure AZ-104
+- Microsoft Certified: Azure Fundamentals  
+- AWS Cloud Practitioner  
+- DevOps, Integración y Agilidad Continua – UTN  
 
 ---
 
 ## Educación
 
-- **Técnico Superior en Análisis de Sistemas** – 2014, Instituto Superior de Informática Virasoro
+- Técnico Superior en Análisis de Sistemas – 2014
 
 ---
 
 ## Idiomas
 
-- **Español:** Nativo
-- **Inglés:** Intermedio (Mejorando la competencia verbal)
-
----
+- Español: Nativo  
+- Inglés: Intermedio (nivel profesional)
