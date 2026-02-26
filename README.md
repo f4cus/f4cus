@@ -1,5 +1,9 @@
 # Professional Profile / Perfil Profesional:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fvillagra/)
+- <a href="https://github.com/f4cus/f4cus/blob/main/CV_en.md" target="_blank">CV (English)</a>
+- <a href="https://github.com/f4cus/f4cus/blob/main/CV_es.md" target="_blank">CV (Español)</a>
+
 ## English
 
 Hybrid Infrastructure & Cloud Security Engineer operating in regulated enterprise environments (banking and insurance).
