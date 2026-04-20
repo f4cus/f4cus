@@ -8,7 +8,7 @@ Ingeniero en Infraestructura y Seguridad con más de 15 años de experiencia en 
 
 Experiencia en diseño y evolución de arquitecturas que combinan identidad, seguridad, observabilidad y automatización, con foco en estabilidad operativa, reducción de riesgo y toma de decisiones en entornos críticos.
 
-Participación activa tanto en la implementación como en la definición de controles en plataformas críticas, integrando workloads on-premise con Azure y AWS.
+Participación en la definición e implementación de controles en plataformas críticas, integrando workloads on-premise con Azure y AWS.
 
 ---
 
@@ -33,13 +33,12 @@ Participación activa tanto en la implementación como en la definición de cont
 - Diseño y ajuste de lógica de detección en Microsoft Sentinel para mejorar la identificación de eventos relevantes bajo restricciones de telemetría.
 - Validación y remediación de configuraciones inseguras en entornos cloud e híbridos.
 - Participación en gobernanza de accesos privilegiados y controles de seguridad.
-- Automatización de controles repetitivos con diseño de alertas para eventos críticos.
 
 **Contribución**
 - Mejora de visibilidad en identidad híbrida mediante correlación de eventos y ajuste de señales de seguridad.
 - Refinamiento de criterios de análisis en eventos de seguridad.
 - Fortalecimiento de controles de gobernanza mediante validación y ajuste de configuraciones críticas.
-- Automatización de controles y reducción de falsos positivos.
+- Automatización de controles y reducción de falsos positivos en eventos de seguridad.
 
 ---
 
