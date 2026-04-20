@@ -6,7 +6,7 @@
 
 Ingeniero en Infraestructura y Seguridad con más de 15 años de experiencia en entornos híbridos y regulados (banca y seguros).
 
-Experiencia en diseño y operación de arquitecturas que combinan identidad, seguridad, observabilidad y automatización, con foco en estabilidad operativa y reducción de riesgo.
+Experiencia en diseño y evolución de arquitecturas que combinan identidad, seguridad, observabilidad y automatización, con foco en estabilidad operativa, reducción de riesgo y toma de decisiones en entornos críticos.
 
 Participación activa tanto en la implementación como en la definición de controles en plataformas críticas, integrando workloads on-premise con Azure y AWS.
 
@@ -33,11 +33,13 @@ Participación activa tanto en la implementación como en la definición de cont
 - Diseño y ajuste de lógica de detección en Microsoft Sentinel para mejorar la identificación de eventos relevantes bajo restricciones de telemetría.
 - Validación y remediación de configuraciones inseguras en entornos cloud e híbridos.
 - Participación en gobernanza de accesos privilegiados y controles de seguridad.
+- Automatización de controles repetitivos con diseño de alertas para eventos críticos.
 
 **Contribución**
-- Mejora de visibilidad en identidad híbrida.
+- Mejora de visibilidad en identidad híbrida mediante correlación de eventos y ajuste de señales de seguridad.
 - Refinamiento de criterios de análisis en eventos de seguridad.
-- Fortalecimiento de mecanismos de gobernanza.
+- Fortalecimiento de controles de gobernanza mediante validación y ajuste de configuraciones críticas.
+- Automatización de controles y reducción de falsos positivos.
 
 ---
 
@@ -50,6 +52,7 @@ Participación activa tanto en la implementación como en la definición de cont
 
 **Contribución**
 - Incremento de estabilidad en despliegues.
+- Desarrollo de nuevos pipelines que permitieron agilizar implementaciones y minimizar errores.
 - Mejora de visibilidad operativa.
 
 ---
@@ -61,7 +64,7 @@ Participación activa tanto en la implementación como en la definición de cont
 - Diseño y coordinación de proceso estructurado de patching mensual con validación y estrategia de rollback.
 - Modernización de arquitectura de File Server hacia DFS Namespace.
 - Administración Exchange híbrido y Microsoft 365.
-- Gestión de workloads Azure y AWS integrados con identidad on-prem.
+- Gestión de workloads en Azure y AWS integrados con identidad híbrida, asegurando control de accesos y cumplimiento.
 
 **Contribución**
 - Mejora de resiliencia operativa.
@@ -79,7 +82,7 @@ Servicios de infraestructura IT y consultoría en seguridad para pequeñas y med
 
 ## Proyectos Técnicos
 
-- Implementación de monitoreo de certificados con alertas anticipadas de vencimiento.
+- Implementación de monitoreo de certificados con alertas anticipadas para reducir riesgo de expiración en servicios críticos.
 - Diseño de flujo automatizado de gobernanza de parches Windows con validación y control de cumplimiento.
 - Desarrollo de lógica de detección en identidad utilizando KQL.
 - Validación de cumplimiento de agentes híbridos (Azure Arc / AMA).
