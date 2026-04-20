@@ -1,28 +1,27 @@
-**Última Actualización:** Febrero 2026
+**Última Actualización:** Abril 2026
 
 ---
 
 ## Perfil Profesional
 
-Ingeniero en Infraestructura Híbrida y Seguridad Cloud con más de 15 años de experiencia en entornos enterprise regulados (banca y seguros).
+Ingeniero en Infraestructura y Seguridad con más de 15 años de experiencia en entornos híbridos y regulados (banca y seguros).
 
-Especializado en identidad híbrida (Active Directory + Entra ID), gobernanza de flotas Windows Server de gran escala y diseño de mecanismos de control operativo bajo restricciones regulatorias y productivas.
+Experiencia en diseño y operación de arquitecturas que combinan identidad, seguridad, observabilidad y automatización, con foco en estabilidad operativa y reducción de riesgo.
 
-Enfoque en reducción de riesgo, estructuración de procesos y claridad de decisión en entornos híbridos.
+Participación activa tanto en la implementación como en la definición de controles en plataformas críticas, integrando workloads on-premise con Azure y AWS.
 
 ---
 
 ## Áreas de Especialización
 
-- Arquitectura de Identidad Híbrida (AD On-Prem + Entra ID)
-- Gobernanza de Flota Windows Server (500+ nodos)
-- Diseño de Procesos de Patching y Gestión de Cambios
-- Validación de Controles y Reducción de Riesgo Operativo
-- Ingeniería de Detección (Microsoft Sentinel)
+- Arquitectura de Infraestructura Híbrida (On-Prem + Azure / AWS)
+- Seguridad en Identidad y Gobernanza de Accesos (AD + Entra ID)
 - Observabilidad y Diagnóstico (Prometheus / Grafana)
-- Administración Exchange Híbrido y Microsoft 365
+- Ingeniería de Detección (Microsoft Sentinel / KQL)
 - Automatización de Infraestructura (PowerShell / Python)
-- Workloads Azure y AWS integrados con identidad híbrida
+- CI/CD y Estandarización de Despliegues
+- Administración Exchange Híbrido y Microsoft 365
+- Gobernanza de Flota Windows Server (500+ nodos)
 
 ---
 
@@ -31,10 +30,9 @@ Enfoque en reducción de riesgo, estructuración de procesos y claridad de decis
 ### Avalora TI (Cliente: Banco de Chile) – Chile  
 **Especialista DevSecOps** – Mayo 2022 – Presente
 
-- Operación y validación de controles de seguridad en entornos híbridos regulados.
-- Diseño y ajuste de lógica de detección en Microsoft Sentinel bajo restricciones de telemetría.
-- Participación en procesos de gobernanza de accesos privilegiados y validación de controles.
-- Remediación de configuraciones inseguras en workloads cloud e híbridos.
+- Diseño y ajuste de lógica de detección en Microsoft Sentinel para mejorar la identificación de eventos relevantes bajo restricciones de telemetría.
+- Validación y remediación de configuraciones inseguras en entornos cloud e híbridos.
+- Participación en gobernanza de accesos privilegiados y controles de seguridad.
 
 **Contribución**
 - Mejora de visibilidad en identidad híbrida.
@@ -44,12 +42,15 @@ Enfoque en reducción de riesgo, estructuración de procesos y claridad de decis
 ---
 
 ### BNP Paribas Cardif – Argentina  
-**Ingeniero DevOps** – Julio 2021 – Presente
+**Ingeniero DevOps** – Julio 2021 – Diciembre 2025
 
 - Diseño y mantenimiento de pipelines CI/CD en entornos híbridos.
-- Mejora de cobertura de monitoreo en servicios productivos.
 - Estandarización de despliegues para reducir desviaciones de configuración.
-- Integración de herramientas bajo restricciones arquitectónicas y regulatorias.
+- Mejora de monitoreo en servicios productivos.
+
+**Contribución**
+- Incremento de estabilidad en despliegues.
+- Mejora de visibilidad operativa.
 
 ---
 
@@ -63,9 +64,9 @@ Enfoque en reducción de riesgo, estructuración de procesos y claridad de decis
 - Gestión de workloads Azure y AWS integrados con identidad on-prem.
 
 **Contribución**
-- Reducción de fricción operativa en ventanas de mantenimiento.
-- Mejora en visibilidad de cumplimiento de parches.
-- Incremento de resiliencia mediante validación y monitoreo continuo.
+- Mejora de resiliencia operativa.
+- Reducción de fricción en ventanas de mantenimiento.
+- Incremento de visibilidad en cumplimiento de parches.
 
 ---
 
@@ -76,12 +77,12 @@ Servicios de infraestructura IT y consultoría en seguridad para pequeñas y med
 
 ---
 
-## Proyectos Técnicos Seleccionados
+## Proyectos Técnicos
 
-- Validación de Cumplimiento de Agentes Híbridos (Azure Arc / AMA)
-- Flujo de Gobernanza de Parches Windows
-- Dashboard de Monitoreo de Vencimiento de Certificados
-- Lógica de Detección en Identidad (KQL)
+- Implementación de monitoreo de certificados con alertas anticipadas de vencimiento.
+- Diseño de flujo automatizado de gobernanza de parches Windows con validación y control de cumplimiento.
+- Desarrollo de lógica de detección en identidad utilizando KQL.
+- Validación de cumplimiento de agentes híbridos (Azure Arc / AMA).
 
 ---
 
