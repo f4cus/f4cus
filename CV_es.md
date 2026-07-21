@@ -28,7 +28,7 @@ Participación en la definición e implementación de controles en plataformas c
 ## Experiencia Profesional
 
 ### Avalora TI (Cliente: Banco de Chile) – Chile  
-**Especialista DevSecOps** – Mayo 2022 – Presente
+**Especialista DevSecOps** – (4 años y 1 mes)
 
 - Diseño y ajuste de lógica de detección en Microsoft Sentinel para mejorar la identificación de eventos relevantes bajo restricciones de telemetría.
 - Validación y remediación de configuraciones inseguras en entornos cloud e híbridos.
@@ -43,7 +43,7 @@ Participación en la definición e implementación de controles en plataformas c
 ---
 
 ### BNP Paribas Cardif – Argentina  
-**Ingeniero DevOps** – Julio 2021 – Diciembre 2025
+**Ingeniero DevOps** – (4 años y 5 meses)
 
 - Diseño y mantenimiento de pipelines CI/CD en entornos híbridos.
 - Estandarización de despliegues para reducir desviaciones de configuración.
@@ -57,7 +57,7 @@ Participación en la definición e implementación de controles en plataformas c
 ---
 
 ### Banco de Formosa SA – Argentina  
-**SysAdmin – Gestión de Tecnología de la Información** – Noviembre 2017 – Presente
+**SysAdmin – Gestión de Tecnología de la Información** – (8 años y 9 meses)
 
 - Gobernanza de flota Windows Server de más de 500 nodos bajo normativa bancaria.
 - Diseño y coordinación de proceso estructurado de patching mensual con validación y estrategia de rollback.
